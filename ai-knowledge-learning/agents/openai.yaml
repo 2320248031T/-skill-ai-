@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Knowledge Learning"
+  short_description: "Turn source materials into a staged learning route"
+  default_prompt: "Use $ai-knowledge-learning to map these materials into a source-traceable learning route."
